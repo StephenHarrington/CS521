@@ -8,6 +8,8 @@ This note explains how to set up Python and introduces you to pyCharm, the Pytho
 
 #### DOWNLOAD THE PYTHON INSTALLER
 
+Download and install the latest version of python [[here]](https://www.python.org/downloads/) (3.6 at time of writing).
+
 Download the free [PyCharm Edu IDE](https://www.jetbrains.com/pycharm-edu/download).  The initial download is about 160M, depending on which operating system you use with Mac, Windows and Linux all supported.
 
 ![pyCharm Download](https://github.com/StephenHarrington/CS521/raw/master/images/pycharm1.JPG "pyCharm Splash Screen")
@@ -90,6 +92,11 @@ You may want to start PyCharm and make sure the Python 3.5 interpreter is associ
 
 
 The Introduction to Python is a use tool to get familar with some of the basics of the python language as well as to familiarize yourself with the PyCharm IDE.  
+
+### Resources
+
+If you want to go beyond with pycharm:
+- [[Quick start]](https://www.jetbrains.com/pycharm-edu/quickstart/)
 
 Have fun!  
 
