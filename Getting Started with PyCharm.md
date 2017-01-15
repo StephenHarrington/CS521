@@ -15,12 +15,12 @@ Download the free [PyCharm Edu IDE](https://www.jetbrains.com/pycharm-edu/downlo
 
 Alternatively, you can use either the IDLE interpreter from [python.org](https://www.python.org/downloads/) or [“Anaconda” Python distribution](https://www.continuum.io/downloads).  The Anaconda install may take some time since it contains the base Python 3.5 version as well as some packages you will find useful.   
 
-*** Note.  CS521 uses Python 3.X (either 3.5 for pyCharm or 3.6 for IDLE), do not use Python 2.7 since all grading will assume Python 3.X ***
+** _Note.  CS521 uses Python 3.X (either 3.5 for pyCharm or 3.6 for IDLE), do not use Python 2.7 since all grading will assume Python 3.X_ **
 
 ##### Operating Systems: 
 Any of the popular IDEs (pyCharm, IDLE and Anaconda) will provide executable Windows installers.  Make sure to use the 32-bit **or** the 64-bit Windows versions, whichever is supported by your computer.  Microsoft provides instructions [here](https://support.microsoft.com/en-us/help/15056/windows-7-32-64-bit-faq) to determine whether you have a 32-bit or 64-bit setup. If you are running 32-bit Windows, be sure that you select the 32-bit version, and if you are running 64-bit Windows, you can download either version.    
 
-*** Note. pyCharm and IDLE defaults to the 32-bit version when being installed on Windows. ***
+** _Note. pyCharm and IDLE defaults to the 32-bit version when being installed on Windows._ **
 
 The Macintosh Operating System (OS X) only provides 64-bit installers and that is the default for most python IDEs.
 
@@ -31,7 +31,7 @@ IDEs for Linux Operating Systems provides both 32-bit and 64-bit versions.
 
 To install pyCharm after downloading the graphical installer, double click the .exe (Windows) or .pkg (Mac) file and follow the instructions on the screen.  
 
-**Note. pyCharm's Python distribution may default to Python 2.7.  Make sure to select Python 3.5**
+** _Note. pyCharm's Python distribution may default to Python 2.7.  Make sure to select Python 3.5_ **
 
 
 ![pyCharm python version](https://github.com/StephenHarrington/CS521/raw/master/images/pycharm4.JPG "python 3.5")
@@ -74,7 +74,7 @@ A useful feature of PyCharm is the Introduction to Python.  Clicking on that opt
     
     
 
-**Note. When you first start PyCharm, you must associate an interpreter (python version) with the code.**
+** _Note. When you first start PyCharm, you must associate an interpreter (python version) with the code._ **
   
     
     
@@ -93,6 +93,6 @@ The Introduction to Python is a use tool to get familar with some of the basics 
 
 Have fun!  
 
-Stephen Harrington
+Stephen Harrington  
 January 15, 2017
  
