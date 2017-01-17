@@ -49,7 +49,7 @@ That is it!  Congratulations, you have learned to install packages and installed
 
   
     
-![Jupyter notebook in PyCharm](https://github.com/StephenHarrington/CS521/raw/master/images/jupyter5.JPG "Jupyter notebook in PyCharm")
+![Jupyter notebook in PyCharm](https://github.com/StephenHarrington/CS521/raw/master/images/jupyter6.JPG "Jupyter notebook in PyCharm")
   
     
 
