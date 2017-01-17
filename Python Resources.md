@@ -12,6 +12,10 @@
 8. [Invent with Python](https://inventwithpython.com/) - develop your Python skills by making games or hacking ciphers  
 9. [Codecademy](https://www.codecademy.com/learn/python) - (note: for Python 2) learn Python by building web apps and manipulating data; interactive tutorial sequence  
 10. [Python Tutor](http://www.pythontutor.com/) - interactive tutorial sequence of exercises
+11. [Google's Python](https://developers.google.com/edu/python/) - Short course in Python basics from Google
+12. [Think Python: How to Think Like a Computer Scientist](http://greenteapress.com/thinkpython/html/index.html) - free online O'Reilly book
+13. [More Python Resources](https://www.fullstackpython.com/best-python-resources.html) - Compedium of Python tutorials and learning resources
+14. [Stackoverflow](http://stackoverflow.com/questions/tagged/python) - For short answers for everything technical
 
 
 #### Development Environments (IDEs)
